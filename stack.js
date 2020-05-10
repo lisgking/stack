@@ -1,6 +1,6 @@
 let items = [];
 
-export default class {
+export default class Stack {
   push = element => {
     items.push(element);
   };
